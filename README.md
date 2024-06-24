@@ -32,8 +32,8 @@ I'm currently expanding my knowledge in:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/eraytugrul)
-- Twitter: [@yourhandle](https://twitter.com/eraytugrul)
+- LinkedIn: [Yin/ErayTugrul](https://linkedin.com/in/eraytugrul)
+- X: [@ErayTugrul](https://twitter.com/eraytugrul)
 - Email: eray@thesunucu.com
 
 Feel free to explore my repositories to see what I've been working on. I'm always open to collaboration and new ideas. Let's build something amazing together!
