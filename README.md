@@ -1,4 +1,4 @@
-![Header]([https://your-image-url.com](https://1.gravatar.com/avatar/da43ec96ae0ea0a089f147c57e20818e9067658a88cfedc5b94088f5f59198a6?size=512))
+![Header](https://1.gravatar.com/avatar/da43ec96ae0ea0a089f147c57e20818e9067658a88cfedc5b94088f5f59198a6?size=512)
 
 # Hi there, I'm [Your Name] 👋
 
@@ -40,4 +40,4 @@ Feel free to explore my repositories to see what I've been working on. I'm alway
 
 ---
 
-![Footer]([https://your-image-url.com](https://1.gravatar.com/avatar/da43ec96ae0ea0a089f147c57e20818e9067658a88cfedc5b94088f5f59198a6?size=512))
+![Footer](https://1.gravatar.com/avatar/da43ec96ae0ea0a089f147c57e20818e9067658a88cfedc5b94088f5f59198a6?size=512)
