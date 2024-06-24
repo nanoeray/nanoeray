@@ -1,8 +1,8 @@
 ![Header](https://1.gravatar.com/avatar/da43ec96ae0ea0a089f147c57e20818e9067658a88cfedc5b94088f5f59198a6?size=512)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Eray! 👋
 
-I'm [Your Name], a **software developer from Turkey**. I specialize in a wide range of technologies including **PHP, Javascript, NodeJS, HTML, CSS, VueJS, React, React Native, and SocketIO**. I enjoy creating innovative solutions and contributing to open-source projects.
+I'm Eray Tuğrul Gül, a **software developer from Turkey**. I specialize in a wide range of technologies including **PHP, Javascript, NodeJS, HTML, CSS, VueJS, React, React Native, and SocketIO**. I enjoy creating innovative solutions and contributing to open-source projects.
 
 ## 🛠 Technologies & Tools
 
